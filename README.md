@@ -2,15 +2,15 @@
 This is my personal portfolio website built to showcase my data analytics skills, projects, and certifications. It highlights my journey as a data enthusiast and provides a clear overview of my technical expertise in data analysis and visualization.
 
 
-Project Structure
+#Project Structure
 portfolio/
 │── index.html       # Main HTML file (homepage)
 │── style.css        # Styling and layout
 │── icons/           # Folder containing images, icons, PDFs (certificates, project visuals, etc.)
 └── README.md        # Project documentation
 
-Features
 
+#Features
 📊 Projects & Analytics Showcase – Interactive cards highlighting data projects and dashboards
 
 📑 Certificates Display – Easy access to data-related certifications
@@ -22,24 +22,17 @@ Features
 🎨 Custom Icons & Images – Managed inside the icons/ folder
 
 
-Technologies & Tools Highlighted
-
+#Technologies & Tools Highlighted
 Excel / Power BI / Tableau – Data visualization and dashboard creation
-
 Python / SQL – Data analysis, cleaning, and querying
 
 
 
-Deployment
-
+#Deployment
 The project is deployed on Netlify: rajyas-portfolio.netlify.app
-
 To deploy yourself:
-
 Push the repository to GitHub
-
 Connect the repository to Netlify
-
 Netlify will auto-build and deploy your portfolio
 
 LinkedIn-Friendly Version (Post Text)
