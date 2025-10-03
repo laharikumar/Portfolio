@@ -38,5 +38,6 @@ Netlify will auto-build and deploy your portfolio
 LinkedIn-Friendly Version (Post Text)
 
 🚀 Excited to share my Data Analytics Portfolio!
+https://laharikumar-portfolio.netlify.app/
 
 I’ve built a clean, responsive portfolio website to showcase my data projects, dashboards, and certifications. It’s fully deployed on Netlify, highlighting my skills in Python, SQL, Excel, Tableau, and Power BI.
